@@ -30,7 +30,7 @@ export REPLICATE_API_TOKEN="r8_..."
 fresh-wallpaper <theme> [options]
 
 Options:
-  --image-model <model>  Specify the image model to use (default: 'black-forest-labs/flux-schnell')
+  --image-model <model>  Specify the image model to use (default: 'google/nano-banana-2')
   --output <directory>   Specify the output directory for images (default: '~/fresh-wallpaper')
   --interval <ms>        Specify the interval between image generations in milliseconds (default: 1000)
   --enhance-prompt       Use a language model to enhance your image generation prompt (default: false)
